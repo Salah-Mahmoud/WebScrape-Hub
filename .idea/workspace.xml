@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1802eab-c43e-41b8-b5a9-e9acd9406286" name="Changes" comment="" />
+    <list default="true" id="e1802eab-c43e-41b8-b5a9-e9acd9406286" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/spiders/loginspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2neJwJvvXbC6EtIata2VQoYubyQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -24,15 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
