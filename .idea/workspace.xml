@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1802eab-c43e-41b8-b5a9-e9acd9406286" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/loginscraper/spiders/loginspider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 2 | Login Challenge/loginscraper/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1802eab-c43e-41b8-b5a9-e9acd9406286" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
