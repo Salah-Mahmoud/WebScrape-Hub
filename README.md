@@ -12,6 +12,9 @@ This repository contains multiple web scraping projects built using Scrapy and S
   - Scrapes login-protected pages from [Scraping Course Login](https://www.scrapingcourse.com/login) using Selenium for automated login.
   - Technologies: Scrapy, Selenium, webdriver-manager.
 
+- **Project 3: Scrolling Challenge**
+  - Scrapes infinite scrolling pages from [Scraping Course Scroll](https://www.scrapingcourse.com/infinite-scrolling) using Selenium for automated scrolling.
+  - Technologies: Scrapy, Selenium.
 
 ## Requirements
 
