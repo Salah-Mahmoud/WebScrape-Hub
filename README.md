@@ -1,20 +1,25 @@
-# Scraping Projects
+# Web Scraping Projects
 
-This repository contains multiple web scraping projects built using Scrapy and Selenium. Each project focuses on scraping different websites and extracting useful data.
+This repository contains various web scraping projects utilizing **Scrapy** and **Selenium**, each designed to scrape data from different types of websites and overcome common web scraping challenges.
 
-## Projects
+## Overview of Projects
 
-- **Project 1: Book Price**
-  - Scrapes book titles and prices from the [Books to Scrape](http://books.toscrape.com/) website.
-  - Technologies: Scrapy.
+### 1. **Book Price Scraper**
+- **Description**: Extracts book titles and prices from the website [Books to Scrape](http://books.toscrape.com/).
+- **Technologies**: Scrapy.
 
-- **Project 2: Login Challenge**
-  - Scrapes login-protected pages from [Scraping Course Login](https://www.scrapingcourse.com/login) using Selenium for automated login.
-  - Technologies: Scrapy, Selenium, webdriver-manager.
+### 2. **Login-Protected Pages Scraper**
+- **Description**: Scrapes content from login-protected pages on [Scraping Course Login](https://www.scrapingcourse.com/login) by automating the login process using Selenium.
+- **Technologies**: Scrapy, Selenium, WebDriver Manager.
 
-- **Project 3: Scrolling Challenge**
-  - Scrapes infinite scrolling pages from [Scraping Course Scroll](https://www.scrapingcourse.com/infinite-scrolling) using Selenium for automated scrolling.
-  - Technologies: Scrapy, Selenium.
+### 3. **Infinite Scrolling Scraper**
+- **Description**: Extracts data from pages with infinite scrolling functionality on [Scraping Course Scroll](https://www.scrapingcourse.com/infinite-scrolling) using Selenium to handle automated scrolling.
+- **Technologies**: Scrapy, Selenium.
+
+### 4. **JavaScript-Rendered Content Scraper**
+- **Description**: Scrapes dynamically-rendered content from JavaScript-heavy pages on [Scraping Course Rendering](https://www.scrapingcourse.com/javascript-rendering) using Selenium for proper rendering.
+- **Technologies**: Scrapy, Selenium.
+
 
 ## Requirements
 
